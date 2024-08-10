@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects/Unreal 5/MyEndDream/Content/Maps/Map_2D.umap",
+				"D:/Projects/Unreal 5/MyEndDream/Content/PaperAssets/Characters/Alex_32x32.uasset",
+				"D:/Projects/Unreal 5/MyEndDream/Content/PaperAssets/Characters/Alex_idle_32x32.uasset",
+				"D:/Projects/Unreal 5/MyEndDream/Content/PaperAssets/Characters/Alex_idle_anim_32x32.uasset",
+				"D:/Projects/Unreal 5/MyEndDream/Content/PaperAssets/Characters/Alex_run_32x32.uasset",
+				"D:/Projects/Unreal 5/MyEndDream/Content/PaperAssets/Characters/Premade_Character_32x32_10.uasset"
+			]
+		}
+	]
+}
