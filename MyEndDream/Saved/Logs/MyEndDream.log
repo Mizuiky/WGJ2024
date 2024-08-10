@@ -15419,3 +15419,28 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.08.10-20.26.11:938][971]AssetCheck: /Game/PaperAssets/Sprites/Environment/Camping/11_Camping_32x32_TileSet Validating asset
 [2024.08.10-20.26.28:346][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
 [2024.08.10-20.26.32:409][860]LogSlate: Window 'Delete Assets' being destroyed
+[2024.08.10-20.29.03:156][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.08.10-20.29.04:361][821]LogSlate: Window 'Delete Assets' being destroyed
+[2024.08.10-20.29.11:056][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.08.10-20.29.14:027][581]LogSlate: Window 'Delete Assets' being destroyed
+[2024.08.10-20.29.16:083][816]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.08.10-20.29.16:083][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.10-20.29.16:156][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.08.10-20.29.21:745][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.08.10-20.29.24:297][438]LogSlate: Window 'Delete Assets' being destroyed
+[2024.08.10-20.29.27:688][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.08.10-20.29.33:342][833]LogSlate: Window 'Delete Assets' being destroyed
+[2024.08.10-20.29.42:027][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.10-20.29.42:085][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_2D" FILE="../../../../../Projects/Unreal 5/WGJ2024/MyEndDream/Content/Maps/Map_2D.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.10-20.29.42:101][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.08.10-20.29.42:104][831]LogSavePackage: Moving output files for package: /Game/Maps/Map_2D
+[2024.08.10-20.29.42:105][831]LogSavePackage: Moving '../../../../../Projects/Unreal 5/WGJ2024/MyEndDream/Saved/Map_2D542C7A024DC064818EB5E097A05B8019.tmp' to '../../../../../Projects/Unreal 5/WGJ2024/MyEndDream/Content/Maps/Map_2D.umap'
+[2024.08.10-20.29.42:109][831]LogFileHelpers: Saving map 'Map_2D' took 0.024
+[2024.08.10-20.29.42:116][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.040 ms (total: 14.4 sec)
+[2024.08.10-20.29.42:167][831]LogContentValidation: Display: Starting to validate 1 assets
+[2024.08.10-20.29.42:167][831]LogContentValidation: Enabled validators:
+[2024.08.10-20.29.42:167][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.08.10-20.29.42:167][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.08.10-20.29.42:167][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.08.10-20.29.42:167][831]LogContentValidation: Display: Validating asset /Game/Maps/Map_2D.Map_2D
+[2024.08.10-20.29.42:167][831]AssetCheck: /Game/Maps/Map_2D Validating asset
